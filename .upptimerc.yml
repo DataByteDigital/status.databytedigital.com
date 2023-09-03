@@ -5,6 +5,8 @@ repo: status.databytedigital.com # The name of this repository
 sites:
   - name: DataByteDigital - Main Site
     url: https://databytedigital.com
+  - name: DataByteDigital - Beta Site
+    url: https://beta.databytedigital.com
   - name: API
     url: https://api.databytedigital.com
   - name: Song Lyrics Studio  
