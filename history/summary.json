@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/databytedigital.com.ico",
     "slug": "data-byte-digital-main-site",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "97.68%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
     "time": 127,
     "timeDay": 90,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 119
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://beta.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.databytedigital.com.ico",
     "slug": "data-byte-digital-beta-site",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 302,
-    "timeDay": 97,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 273,
+    "timeDay": 89,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 119
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.databytedigital.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 158,
-    "timeDay": 109,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 149,
+    "timeDay": 96,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 119
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://songlyrics.databytedigital.com/",
     "icon": "https://icons.duckduckgo.com/ip3/songlyrics.databytedigital.com.ico",
     "slug": "song-lyrics-studio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 91,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 144,
+    "timeDay": 92,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 119
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://status1.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/status1.databytedigital.com.ico",
     "slug": "status-page-self-hosted",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 105,
-    "timeWeek": 145,
-    "timeMonth": 145,
-    "timeYear": 145,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 137,
+    "timeDay": 92,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 119
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://passwordgenerator.databytedigital.com/",
     "icon": "https://icons.duckduckgo.com/ip3/passwordgenerator.databytedigital.com.ico",
     "slug": "password-generator-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 69,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "97.66%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.66%",
+    "time": 183,
+    "timeDay": 68,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 119
     }
   }
 ]
