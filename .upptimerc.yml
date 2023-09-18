@@ -2,6 +2,10 @@
 owner: DataByteDigital # Your GitHub organization or username, where this repository lives
 repo: status.databytedigital.com # The name of this repository
 
+commitMessages:
+  commitAuthorName: "DataByteDigital Bot"
+  commitAuthorEmail: "bot@databytedigital.com"
+
 sites:
   - name: DataByteDigital - Main Site
     url: https://databytedigital.com
@@ -9,6 +13,7 @@ sites:
     url: https://beta.databytedigital.com
   - name: API
     url: https://api.databytedigital.com
+    icon: https://api.databytedigital.com/images/api.png
   - name: Song Lyrics Studio  
     url: https://songlyrics.databytedigital.com/
   - name: Bartalap - Social Network
