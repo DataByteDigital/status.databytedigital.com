@@ -7,9 +7,9 @@ commitMessages:
   commitAuthorEmail: "bot@databytedigital.com"
 
 sites:
-  - name: DataByteDigital - Main Site
+  - name: DataByteDigital - Production
     url: https://databytedigital.com
-  - name: DataByteDigital - Beta Site
+  - name: DataByteDigital - Beta
     url: https://beta.databytedigital.com
     icon: https://databytedigital.com/logo.png
   - name: API
@@ -21,8 +21,10 @@ sites:
     url: https://bartalap.databytedigital.com
   - name: Status Page 
     url: https://status.databytedigital.com
+    icon: https://databytedigital.com/logo.png
   - name: Status Page (Secondary)
     url: https://status1.databytedigital.com
+    icon: https://databytedigital.com/logo.png
   - name: Password Generator Service
     url: https://passwordgenerator.databytedigital.com/
     
