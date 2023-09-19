@@ -28,7 +28,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status1.databytedigital.com)
+[**Visit our status website →**](https://status.databytedigital.com)
 
 <!--
 ## 📄 License
