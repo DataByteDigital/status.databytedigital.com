@@ -17,7 +17,7 @@ sites:
     icon: https://api.databytedigital.com/images/api.png
   - name: Song Lyrics Studio  
     url: https://songlyrics.databytedigital.com/
-  - name: Bartalap - Social Network
+  - name: Bartalap - Social Network Site
     url: https://bartalap.databytedigital.com
   - name: Status Page 
     url: https://status.databytedigital.com
