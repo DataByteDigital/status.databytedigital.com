@@ -116,9 +116,9 @@
     "url": "https://status1.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "status-page-secondary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 967,
     "timeMonth": 881,
     "timeYear": 859,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-22": 0
+    }
   },
   {
     "name": "Password Generator Service",
