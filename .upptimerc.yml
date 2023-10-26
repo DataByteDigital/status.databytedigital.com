@@ -7,10 +7,10 @@ commitMessages:
   commitAuthorEmail: "bot@databytedigital.com"
 
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "*/5 * * * *"
+  graphs: "1 */4 * * *"
+  responseTime: "1 */4 * * *"
   staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
+  summary: "1 */4 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
