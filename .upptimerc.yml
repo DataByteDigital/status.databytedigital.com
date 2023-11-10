@@ -18,27 +18,44 @@ workflowSchedule:
 sites:
   - name: DataByteDigital - Production
     url: https://databytedigital.com
+    maxResponseTime: 5000
+
   - name: DataByteDigital - Beta
     url: https://beta.databytedigital.com
     icon: https://databytedigital.com/logo.png
+    maxResponseTime: 5000
+
   - name: DataByteDigital - Test
-    url: https://test.databytedigital.com/
+    url: https://test.databytedigital.com
     icon: https://databytedigital.com/logo.png  
+    maxResponseTime: 5000
+
   - name: API
     url: https://api.databytedigital.com
     icon: https://api.databytedigital.com/images/api.png
+    maxResponseTime: 5000
+
   - name: Song Lyrics Studio  
-    url: https://songlyrics.databytedigital.com/
+    url: https://songlyrics.databytedigital.com
+    maxResponseTime: 5000
+    
   - name: Bartalap - Social Network Site
     url: https://bartalap.databytedigital.com
+    maxResponseTime: 5000
+
   - name: Status Page 
     url: https://status.databytedigital.com
     icon: https://databytedigital.com/logo.png
+    maxResponseTime: 5000
+
   - name: Status Page (Secondary)
     url: https://status1.databytedigital.com
     icon: https://databytedigital.com/logo.png
+    maxResponseTime: 5000
+
   - name: Password Generator Service
-    url: https://passwordgenerator.databytedigital.com/
+    url: https://passwordgenerator.databytedigital.com
+    maxResponseTime: 5000
     
 
 status-website:
@@ -50,8 +67,8 @@ status-website:
   favicon: https://databytedigital.com/logo.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DataByteDigital
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Welcome to DataByteDigital.com's home for real-time and historical data on system performance."
+  introMessage: DataByteDigital provides different internet Content related services to the Public. This is the system status for the DataByteDigital services(edge network and dashboard/APIs)
   navbar:
     - title: Status
       href: /
