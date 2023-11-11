@@ -67,8 +67,9 @@ status-website:
   favicon: https://databytedigital.com/logo.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DataByteDigital
-  introTitle: "Welcome to DataByteDigital.com's home for real-time and historical data on system performance."
+  # introTitle: "Welcome to DataByteDigital.com's home for real-time and historical data on system performance."
   # introMessage: DataByteDigital provides different internet Content related services to the Public. This is the system status for the DataByteDigital services(edge network and dashboard/APIs)
+  introMessage: "Welcome to DataByteDigital.com's home for real-time and historical data on system performance."
   navbar:
     - title: Status
       href: /
