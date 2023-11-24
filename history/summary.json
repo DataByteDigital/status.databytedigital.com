@@ -31,7 +31,7 @@
     "time": 259,
     "timeDay": 203,
     "timeWeek": 239,
-    "timeMonth": 266,
+    "timeMonth": 265,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 185,
     "timeDay": 251,
     "timeWeek": 163,
-    "timeMonth": 193,
+    "timeMonth": 196,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 1184,
     "timeDay": 1111,
     "timeWeek": 1140,
-    "timeMonth": 1185,
+    "timeMonth": 1184,
     "timeYear": 1184,
     "dailyMinutesDown": {}
   },
@@ -131,19 +131,17 @@
     "icon": "https://databytedigital.com/logo.png",
     "slug": "status-page-secondary",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 929,
     "timeDay": 1003,
     "timeWeek": 930,
-    "timeMonth": 897,
+    "timeMonth": 900,
     "timeYear": 929,
-    "dailyMinutesDown": {
-      "2023-11-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Password Generator Service",
@@ -159,7 +157,7 @@
     "time": 212,
     "timeDay": 153,
     "timeWeek": 178,
-    "timeMonth": 195,
+    "timeMonth": 197,
     "timeYear": 212,
     "dailyMinutesDown": {}
   }
