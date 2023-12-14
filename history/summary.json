@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 123,
-    "timeWeek": 114,
-    "timeMonth": 131,
+    "timeDay": 127,
+    "timeWeek": 115,
+    "timeMonth": 132,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -114,8 +114,8 @@
     "slug": "status-page",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
@@ -124,7 +124,7 @@
     "timeMonth": 136,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-14": 1
     }
   },
   {
