@@ -48,11 +48,6 @@ sites:
     icon: https://databytedigital.com/logo.png
     maxResponseTime: 5000
 
-  - name: Status Page (Secondary)
-    url: https://status1.databytedigital.com
-    icon: https://databytedigital.com/logo.png
-    maxResponseTime: 5000
-
   - name: Password Generator Service
     url: https://passwordgenerator.databytedigital.com
     maxResponseTime: 5000
@@ -61,8 +56,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.databytedigital.com
-  # baseUrl: /your-repo-name
+  #cname: status.databytedigital.com
+  baseUrl: /status.databytedigital.com
   logoUrl: https://databytedigital.com/logo.png
   favicon: https://databytedigital.com/logo.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
