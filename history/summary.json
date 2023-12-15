@@ -40,19 +40,19 @@
     "url": "https://test.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "data-byte-digital-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 144,
     "timeDay": 191,
-    "timeWeek": 152,
-    "timeMonth": 137,
+    "timeWeek": 153,
+    "timeMonth": 138,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 6
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://api.databytedigital.com",
     "icon": "https://api.databytedigital.com/images/api.png",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 430,
-    "timeWeek": 182,
+    "timeDay": 378,
+    "timeWeek": 180,
     "timeMonth": 174,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 6
     }
   },
   {
