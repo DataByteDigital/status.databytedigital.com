@@ -4,18 +4,20 @@
     "url": "https://databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/databytedigital.com.ico",
     "slug": "data-byte-digital-production",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 114,
-    "timeWeek": 136,
-    "timeMonth": 123,
-    "timeYear": 150,
-    "dailyMinutesDown": {}
+    "time": 161,
+    "timeDay": 1438,
+    "timeWeek": 363,
+    "timeMonth": 177,
+    "timeYear": 161,
+    "dailyMinutesDown": {
+      "2023-12-23": 0
+    }
   },
   {
     "name": "DataByteDigital - Beta",
@@ -114,18 +116,16 @@
     "slug": "status-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
     "timeDay": 1389,
     "timeWeek": 1487,
     "timeMonth": 539,
     "timeYear": 244,
-    "dailyMinutesDown": {
-      "2023-12-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Password Generator Service",
