@@ -4,19 +4,19 @@
     "url": "https://databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/databytedigital.com.ico",
     "slug": "data-byte-digital-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 95,
-    "timeWeek": 113,
+    "timeDay": 105,
+    "timeWeek": 114,
     "timeMonth": 174,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 6
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://songlyrics.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/songlyrics.databytedigital.com.ico",
     "slug": "song-lyrics-studio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 120,
-    "timeWeek": 136,
+    "timeDay": 133,
+    "timeWeek": 138,
     "timeMonth": 155,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 6
     }
   },
   {
