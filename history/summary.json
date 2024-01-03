@@ -4,19 +4,19 @@
     "url": "https://databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/databytedigital.com.ico",
     "slug": "data-byte-digital-production",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 158,
-    "timeDay": 105,
-    "timeWeek": 114,
-    "timeMonth": 174,
+    "timeDay": 98,
+    "timeWeek": 113,
+    "timeMonth": 173,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 9
     }
   },
   {
