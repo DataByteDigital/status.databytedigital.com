@@ -4,11 +4,11 @@
     "url": "https://databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/databytedigital.com.ico",
     "slug": "data-byte-digital-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 105,
@@ -16,7 +16,7 @@
     "timeMonth": 174,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-01-03": 6
+      "2024-01-03": 0
     }
   },
   {
@@ -80,18 +80,16 @@
     "slug": "song-lyrics-studio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
     "timeDay": 133,
     "timeWeek": 138,
     "timeMonth": 155,
     "timeYear": 177,
-    "dailyMinutesDown": {
-      "2024-01-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bartalap - Social Network Site",
