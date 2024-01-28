@@ -114,9 +114,9 @@
     "slug": "status-page",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 405,
     "timeDay": 1634,
@@ -124,7 +124,6 @@
     "timeMonth": 1135,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2024-01-27": 5,
       "2024-01-25": 16
     }
   },
