@@ -4,108 +4,119 @@
     "url": "https://databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/databytedigital.com.ico",
     "slug": "data-byte-digital-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 141,
-    "timeWeek": 163,
-    "timeMonth": 153,
+    "timeDay": 124,
+    "timeWeek": 159,
+    "timeMonth": 152,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "DataByteDigital - Beta",
     "url": "https://beta.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "data-byte-digital-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 312,
-    "timeWeek": 252,
-    "timeMonth": 248,
+    "timeDay": 243,
+    "timeWeek": 244,
+    "timeMonth": 247,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "DataByteDigital - Test",
     "url": "https://test.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "data-byte-digital-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 148,
+    "timeDay": 153,
     "timeWeek": 158,
     "timeMonth": 158,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.databytedigital.com",
     "icon": "https://api.databytedigital.com/images/api.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 163,
-    "timeWeek": 186,
-    "timeMonth": 173,
+    "timeDay": 131,
+    "timeWeek": 178,
+    "timeMonth": 171,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "Song Lyrics Studio",
     "url": "https://songlyrics.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/songlyrics.databytedigital.com.ico",
     "slug": "song-lyrics-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 220,
-    "timeWeek": 186,
-    "timeMonth": 156,
+    "timeDay": 188,
+    "timeWeek": 182,
+    "timeMonth": 155,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "Bartalap - Social Network Site",
     "url": "https://bartalap.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/bartalap.databytedigital.com.ico",
     "slug": "bartalap-social-network-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "91.72%",
-    "uptimeWeek": "98.82%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.81%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.93%",
-    "time": 1184,
-    "timeDay": 1239,
-    "timeWeek": 1166,
-    "timeMonth": 1181,
-    "timeYear": 1184,
+    "time": 1182,
+    "timeDay": 1002,
+    "timeWeek": 1132,
+    "timeMonth": 1173,
+    "timeYear": 1182,
     "dailyMinutesDown": {
+      "2024-01-31": 0,
       "2024-01-30": 119
     }
   },
@@ -121,8 +132,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 419,
-    "timeDay": 1085,
-    "timeWeek": 1339,
+    "timeDay": 1040,
+    "timeWeek": 1331,
     "timeMonth": 1157,
     "timeYear": 419,
     "dailyMinutesDown": {
@@ -134,17 +145,19 @@
     "url": "https://passwordgenerator.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/passwordgenerator.databytedigital.com.ico",
     "slug": "password-generator-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 125,
-    "timeWeek": 165,
-    "timeMonth": 184,
+    "timeDay": 92,
+    "timeWeek": 159,
+    "timeMonth": 183,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   }
 ]
