@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/databytedigital.com.ico",
     "slug": "data-byte-digital-production",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 183,
-    "timeWeek": 167,
+    "timeDay": 175,
+    "timeWeek": 166,
     "timeMonth": 154,
     "timeYear": 158,
-    "dailyMinutesDown": {
-      "2024-01-31": 63
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DataByteDigital - Beta",
@@ -25,19 +23,17 @@
     "icon": "https://databytedigital.com/logo.png",
     "slug": "data-byte-digital-beta",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 191,
-    "timeWeek": 239,
+    "timeDay": 202,
+    "timeWeek": 240,
     "timeMonth": 246,
     "timeYear": 256,
-    "dailyMinutesDown": {
-      "2024-01-31": 63
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DataByteDigital - Test",
@@ -45,19 +41,17 @@
     "icon": "https://databytedigital.com/logo.png",
     "slug": "data-byte-digital-test",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 134,
+    "timeDay": 138,
     "timeWeek": 157,
     "timeMonth": 158,
     "timeYear": 149,
-    "dailyMinutesDown": {
-      "2024-01-31": 63
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -65,19 +59,17 @@
     "icon": "https://api.databytedigital.com/images/api.png",
     "slug": "api",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 179,
-    "timeWeek": 184,
-    "timeMonth": 173,
+    "timeDay": 184,
+    "timeWeek": 185,
+    "timeMonth": 174,
     "timeYear": 176,
-    "dailyMinutesDown": {
-      "2024-01-31": 63
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Song Lyrics Studio",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/songlyrics.databytedigital.com.ico",
     "slug": "song-lyrics-studio",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 215,
-    "timeWeek": 187,
+    "timeDay": 204,
+    "timeWeek": 186,
     "timeMonth": 157,
     "timeYear": 175,
-    "dailyMinutesDown": {
-      "2024-01-31": 63
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bartalap - Social Network Site",
@@ -105,18 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bartalap.databytedigital.com.ico",
     "slug": "bartalap-social-network-site",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.93%",
     "time": 1181,
-    "timeDay": 821,
-    "timeWeek": 1096,
-    "timeMonth": 1164,
+    "timeDay": 884,
+    "timeWeek": 1102,
+    "timeMonth": 1165,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2024-01-31": 63,
       "2024-01-30": 119
     }
   },
@@ -132,9 +121,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 420,
-    "timeDay": 993,
-    "timeWeek": 1312,
-    "timeMonth": 1155,
+    "timeDay": 975,
+    "timeWeek": 1299,
+    "timeMonth": 1153,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2024-01-25": 16
@@ -146,18 +135,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/passwordgenerator.databytedigital.com.ico",
     "slug": "password-generator-service",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 100,
-    "timeWeek": 157,
-    "timeMonth": 182,
+    "timeDay": 99,
+    "timeWeek": 155,
+    "timeMonth": 181,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2024-01-31": 63
-    }
+    "dailyMinutesDown": {}
   }
 ]
