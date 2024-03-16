@@ -6,18 +6,16 @@
     "slug": "data-byte-digital-production",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 142,
     "timeWeek": 159,
     "timeMonth": 168,
     "timeYear": 159,
-    "dailyMinutesDown": {
-      "2024-03-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DataByteDigital - Beta",
