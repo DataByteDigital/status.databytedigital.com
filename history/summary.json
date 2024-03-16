@@ -6,17 +6,17 @@
     "slug": "data-byte-digital-production",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 143,
-    "timeWeek": 161,
+    "timeDay": 142,
+    "timeWeek": 159,
     "timeMonth": 168,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-03-16": 6
+      "2024-03-16": 0
     }
   },
   {
