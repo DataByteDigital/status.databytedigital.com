@@ -41,7 +41,7 @@ sites:
     
   - name: Bartalap - Social Network Site
     url: https://bartalap.databytedigital.com
-    maxResponseTime: 2000
+    maxResponseTime: 5000
 
   - name: Status Page 
     url: https://status.databytedigital.com
