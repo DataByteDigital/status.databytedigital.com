@@ -69,4 +69,4 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "DataByteDigital Bot"
-          user_email: "bot@databytedigital.com"
+          user_email: "143883349+DataByteDigital-Bot@users.noreply.github.com"
