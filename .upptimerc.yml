@@ -4,7 +4,7 @@ repo: status.databytedigital.com # The name of this repository
 
 commitMessages:
   commitAuthorName: "DataByteDigital Bot"
-  commitAuthorEmail: "bot@databytedigital.com"
+  commitAuthorEmail: "143883349+DataByteDigital-Bot@users.noreply.github.com"
 
 workflowSchedule:
   graphs: "1 */6 * * *"
