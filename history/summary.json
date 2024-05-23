@@ -42,19 +42,19 @@
     "url": "https://test.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "data-byte-digital-test",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 1964,
-    "timeWeek": 481,
-    "timeMonth": 255,
+    "timeDay": 1665,
+    "timeWeek": 471,
+    "timeMonth": 254,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-05-23": 1
+      "2024-05-23": 5
     }
   },
   {
