@@ -1,7 +1,7 @@
 url: https://test.databytedigital.com
-status: up
+status: degraded
 code: 200
-responseTime: 147
-lastUpdated: 2024-05-23T12:18:04.057Z
+responseTime: 8869
+lastUpdated: 2024-05-23T13:45:09.906Z
 startTime: 2023-11-04T10:03:43.273Z
 generator: Upptime <https://github.com/upptime/upptime>
