@@ -44,18 +44,16 @@
     "slug": "data-byte-digital-test",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
     "timeDay": 1665,
     "timeWeek": 471,
     "timeMonth": 254,
     "timeYear": 169,
-    "dailyMinutesDown": {
-      "2024-05-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
