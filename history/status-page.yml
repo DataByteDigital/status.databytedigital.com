@@ -1,7 +1,7 @@
 url: https://status.databytedigital.com
-status: up
+status: degraded
 code: 200
-responseTime: 760
-lastUpdated: 2024-06-08T12:16:50.727Z
+responseTime: 10736
+lastUpdated: 2024-06-08T14:43:23.100Z
 startTime: 2023-09-03T19:23:03.808Z
 generator: Upptime <https://github.com/upptime/upptime>
