@@ -1,7 +1,7 @@
 url: https://beta.databytedigital.com
-status: down
+status: degraded
 code: 403
-responseTime: 395
-lastUpdated: 2024-07-05T12:18:34.641Z
+responseTime: 5848
+lastUpdated: 2024-07-05T18:09:09.496Z
 startTime: 2023-09-19T06:42:37.323Z
 generator: Upptime <https://github.com/upptime/upptime>
