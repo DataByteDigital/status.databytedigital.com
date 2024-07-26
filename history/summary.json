@@ -34,7 +34,7 @@
     "timeMonth": 597,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-07-26": 948,
+      "2024-07-26": 954,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-07-26": 948,
+      "2024-07-26": 954,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -133,19 +133,19 @@
     "url": "https://api.databytedigital.com",
     "icon": "https://api.databytedigital.com/images/api.png",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 153,
-    "timeWeek": 193,
-    "timeMonth": 191,
+    "timeDay": 204,
+    "timeWeek": 202,
+    "timeMonth": 193,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 7
     }
   },
   {
