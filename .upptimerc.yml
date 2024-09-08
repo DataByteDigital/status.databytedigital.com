@@ -1,4 +1,4 @@
-# Change these first 
+# Change these first
 owner: DataByteDigital # Your GitHub organization or username, where this repository lives
 repo: status.databytedigital.com # The name of this repository
 
@@ -20,30 +20,30 @@ sites:
     url: https://databytedigital.com
     maxResponseTime: 5000
 
-  - name: DataByteDigital - Beta
-    url: https://beta.databytedigital.com
-    icon: https://databytedigital.com/logo.png
-    maxResponseTime: 5000
+  # - name: DataByteDigital - Beta
+  #   url: https://beta.databytedigital.com
+  #   icon: https://databytedigital.com/logo.png
+  #   maxResponseTime: 5000
 
-  - name: DataByteDigital - Test
-    url: https://test.databytedigital.com
-    icon: https://databytedigital.com/logo.png  
-    maxResponseTime: 5000
+  # - name: DataByteDigital - Test
+  #   url: https://test.databytedigital.com
+  #   icon: https://databytedigital.com/logo.png
+  #   maxResponseTime: 5000
 
   - name: API
     url: https://api.databytedigital.com
     icon: https://api.databytedigital.com/images/api.png
     maxResponseTime: 5000
 
-  - name: Song Lyrics Studio  
+  - name: Song Lyrics Studio
     url: https://songlyrics.databytedigital.com
     maxResponseTime: 5000
-    
+
   - name: Bartalap - Social Network Site
     url: https://bartalap.databytedigital.com
     maxResponseTime: 5000
 
-  - name: Status Page 
+  - name: Status Page
     url: https://status.databytedigital.com
     icon: https://databytedigital.com/logo.png
     maxResponseTime: 5000
@@ -51,7 +51,6 @@ sites:
   - name: Password Generator Service
     url: https://passwordgenerator.databytedigital.com
     maxResponseTime: 5000
-    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -70,6 +69,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
