@@ -151,19 +151,19 @@
     "url": "https://passwordgenerator.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/passwordgenerator.databytedigital.com.ico",
     "slug": "password-generator-service",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 4115,
-    "timeWeek": 830,
-    "timeMonth": 334,
+    "timeDay": 3451,
+    "timeWeek": 807,
+    "timeMonth": 332,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-09-13": 1
+      "2024-09-13": 6
     }
   }
 ]
