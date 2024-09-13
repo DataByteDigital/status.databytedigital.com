@@ -11,8 +11,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 156,
-    "timeWeek": 346,
+    "timeDay": 160,
+    "timeWeek": 345,
     "timeMonth": 258,
     "timeYear": 173,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 194,
-    "timeWeek": 188,
+    "timeDay": 209,
+    "timeWeek": 190,
     "timeMonth": 178,
     "timeYear": 178,
     "dailyMinutesDown": {}
@@ -48,9 +48,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 293,
-    "timeWeek": 228,
+    "time": 175,
+    "timeDay": 223,
+    "timeWeek": 233,
     "timeMonth": 204,
     "timeYear": 175,
     "dailyMinutesDown": {}
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.80%",
     "time": 1121,
-    "timeDay": 1117,
-    "timeWeek": 1019,
-    "timeMonth": 999,
+    "timeDay": 1044,
+    "timeWeek": 1016,
+    "timeMonth": 998,
     "timeYear": 1121,
     "dailyMinutesDown": {
       "2024-04-25": 231,
@@ -106,8 +106,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "94.01%",
     "time": 794,
-    "timeDay": 1292,
-    "timeWeek": 1044,
+    "timeDay": 1175,
+    "timeWeek": 1054,
     "timeMonth": 1080,
     "timeYear": 791,
     "dailyMinutesDown": {
@@ -151,17 +151,19 @@
     "url": "https://passwordgenerator.databytedigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/passwordgenerator.databytedigital.com.ico",
     "slug": "password-generator-service",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 156,
-    "timeWeek": 171,
-    "timeMonth": 176,
-    "timeYear": 174,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 4115,
+    "timeWeek": 830,
+    "timeMonth": 334,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2024-09-13": 1
+    }
   }
 ]
