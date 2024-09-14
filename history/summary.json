@@ -6,9 +6,9 @@
     "slug": "data-byte-digital-production",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 1547,
@@ -16,7 +16,6 @@
     "timeMonth": 321,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-09-13": 6,
       "2024-09-11": 15
     }
   },
@@ -45,18 +44,16 @@
     "slug": "song-lyrics-studio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 3167,
     "timeWeek": 808,
     "timeMonth": 345,
     "timeYear": 186,
-    "dailyMinutesDown": {
-      "2024-09-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bartalap - Social Network Site",
@@ -64,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bartalap.databytedigital.com.ico",
     "slug": "bartalap-social-network-site",
     "status": "up",
-    "uptime": "95.80%",
+    "uptime": "95.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.80%",
+    "uptimeYear": "95.81%",
     "time": 1121,
     "timeDay": 1039,
     "timeWeek": 1020,
@@ -164,7 +161,7 @@
     "timeDay": 3450,
     "timeWeek": 810,
     "timeMonth": 331,
-    "timeYear": 187,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   }
 ]
