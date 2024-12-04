@@ -34,7 +34,7 @@
     "timeDay": 232,
     "timeWeek": 222,
     "timeMonth": 223,
-    "timeYear": 193,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -101,9 +101,9 @@
     "slug": "status-page",
     "status": "up",
     "uptime": "95.22%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.01%",
     "time": 1015,
     "timeDay": 1005,
@@ -111,7 +111,6 @@
     "timeMonth": 1058,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2024-12-04": 12,
       "2024-11-01": 19,
       "2024-09-10": 16,
       "2024-09-04": 54,
