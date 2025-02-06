@@ -34,7 +34,7 @@
     "timeDay": 850,
     "timeWeek": 281,
     "timeMonth": 271,
-    "timeYear": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
@@ -99,10 +99,10 @@
     "icon": "https://databytedigital.com/logo.png",
     "slug": "status-page",
     "status": "up",
-    "uptime": "95.78%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.84%",
+    "uptime": "95.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "93.98%",
     "time": 1154,
     "timeDay": 1032,
@@ -110,7 +110,6 @@
     "timeMonth": 1130,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2025-02-05": 6,
       "2025-01-12": 17,
       "2025-01-09": 47,
       "2024-12-05": 41,
