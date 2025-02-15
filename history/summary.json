@@ -26,18 +26,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 452,
     "timeWeek": 250,
     "timeMonth": 239,
     "timeYear": 207,
-    "dailyMinutesDown": {
-      "2025-02-15": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Song Lyrics Studio",
@@ -72,7 +70,7 @@
     "timeDay": 1171,
     "timeWeek": 1167,
     "timeMonth": 1099,
-    "timeYear": 1055,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2024-04-25": 231,
       "2024-04-24": 1397,
