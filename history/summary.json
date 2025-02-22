@@ -26,18 +26,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 940,
-    "timeWeek": 1620,
+    "timeWeek": 1667,
     "timeMonth": 591,
     "timeYear": 240,
-    "dailyMinutesDown": {
-      "2025-02-22": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Song Lyrics Studio",
@@ -64,9 +62,9 @@
     "slug": "bartalap-social-network-site",
     "status": "up",
     "uptime": "97.13%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.00%",
     "time": 1064,
     "timeDay": 1200,
@@ -74,7 +72,6 @@
     "timeMonth": 1111,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2025-02-22": 7,
       "2024-04-25": 231,
       "2024-04-24": 1397,
       "2024-04-23": 322,
