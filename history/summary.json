@@ -24,19 +24,19 @@
     "url": "https://api.databytedigital.com",
     "icon": "https://api.databytedigital.com/images/api.png",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 843,
-    "timeWeek": 896,
-    "timeMonth": 683,
+    "timeDay": 855,
+    "timeWeek": 897,
+    "timeMonth": 685,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-02-26": 0
+      "2025-02-26": 9
     }
   },
   {
